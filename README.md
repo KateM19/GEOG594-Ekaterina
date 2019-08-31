@@ -1,12 +1,11 @@
 # GEOG594-Ekaterina
-My new repo
+
 <html>
 <b> GEOG594-Ekaterina Marchenko </b>
 </br>
-https://drive.google.com/drive/folders/1DqmjTqDqgmcTtEPkJftwJi8QFg9nMgGv - automatic!
-[GitHub](https://drive.google.com/drive/folders/1DqmjTqDqgmcTtEPkJftwJi8QFg9nMgGv)
-</b>
+Click <a href="https://drive.google.com/drive/folders/1DqmjTqDqgmcTtEPkJftwJi8QFg9nMgGv">here</a> to go to BDA/GEOG594 class folder
+</br>
 <big> Big Data </big> is a large amount of information. The data can be structured, unstructured and semi-structured. We can characterize
-</b>
+</br>
 Big data by the 3Vs: the extreme volume of data, the wide variety of data types and the velocity at which the data must be processed. 
 </html>
